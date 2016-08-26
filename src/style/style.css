@@ -1,0 +1,68 @@
+ul {
+  list-style-type: none;
+}
+.center-block{
+  float: none;
+}
+.custom-modal{
+  width: 90%;
+}
+.big-text{
+  font-weight: bold;
+  font-size: 2.5em;
+}
+.map_container{
+  position: absolute;
+  height: 95%;
+  width: 100%;
+  margin-top: -20px;
+}
+.big-text-too{
+  font-weight: bold;
+  font-size: 2em;
+}
+.colorView{
+  position: relative;
+  display: block;
+  padding: .75rem 1.25rem;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  background-color: #eceeef;
+}
+.second-text{
+  font-size: 1.5em;
+}
+.card-underline{
+  border-bottom: 2px solid black;
+}
+.main-part{
+  padding: .75em;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  background-color: #eceeef;
+  font-weight: bold;
+}
+.cab-parent{
+  border-bottom: 2px solid black;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.create-col{
+  width: 25%;
+  text-align: center;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+}
+.create-three-col{
+  width: 33%;
+  text-align: center;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+}
+.hideThing{
+  display: none;
+}
+.thirdLevel{
+  border-bottom: 1px dashed black;
+}
